@@ -890,7 +890,7 @@ QWidget .QFrame#frame .QLabel#label_5 {
 	qproperty-alignment: 'AlignVCenter | AlignRight';
 	min-width:160px;
 	background-color:transparent;
-	color:#fff;
+	color:#333;
 	margin-right:5px;
 	padding-right:5px;
 }
